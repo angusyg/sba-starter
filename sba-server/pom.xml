@@ -14,7 +14,7 @@
     <description>SBA Server starter</description>
 
     <modules>
-        <module>sba-web</module>
+        <module>sba-webapp</module>
         <module>sba-authentication</module>
         <module>sba-model</module>
     </modules>

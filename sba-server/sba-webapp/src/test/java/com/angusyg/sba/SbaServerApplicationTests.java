@@ -1,4 +1,4 @@
-package com.angusyg.sba.web.app;
+package com.angusyg.sba;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -7,9 +7,9 @@
         <artifactId>sba-server</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>sba-web</artifactId>
+    <artifactId>sba-webapp</artifactId>
 
-    <name>sba-web</name>
+    <name>sba-webapp</name>
     <description>SBA WebApp module</description>
 
     <dependencies>
