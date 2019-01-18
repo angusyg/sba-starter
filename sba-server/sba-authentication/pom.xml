@@ -11,4 +11,21 @@
 
     <name>sba-authentication</name>
     <description>SBA Authentication module</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.angusyg</groupId>
+            <artifactId>sba-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.angusyg</groupId>
+            <artifactId>sba-model</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>

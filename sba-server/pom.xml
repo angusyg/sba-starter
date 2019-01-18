@@ -17,6 +17,7 @@
         <module>sba-webapp</module>
         <module>sba-authentication</module>
         <module>sba-model</module>
+        <module>sba-core</module>
     </modules>
 
     <dependencies>
